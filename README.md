@@ -66,11 +66,11 @@ For authentication implementation, a `FirebaseAuth.jsx` component was created to
 ## Site Screenshoots
 
 **Initial Site**  
-![alt text](image-7.png)
+![alt text](image-7.png)  
 **SignIn Popup**  
-![alt text](image-8.png)
+![alt text](image-8.png)  
 **Signed In**  
-![alt text](image-9.png)
+![alt text](image-9.png)  
 **Console Messages**  
 ![alt text](image-10.png)
 
